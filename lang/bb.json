@@ -1,0 +1,30 @@
+{
+	"language": "Babyish",
+
+	"credit0-name": "Babycaseny",
+	"credit0-url": "http://babyish.wikia.com/",
+
+	"download-button-tip": "Dawnloud nige vidio",
+	"download-button-text": "Ladda ner",
+	"menu-button-tip": "Välj mellan olika format",
+	"format-tip": "Format ",
+
+	"group-options": "Alternativ",
+	"group-high-definition": "Högupplöst",
+	"group-standard-definition": "Standardupplösning",
+	"group-mobile": "Mobail",
+	"group-unknown": "Miwagari format",
+	"group-update": "Det finns en uppdatering tillgänglig",
+
+	"option-check": "Sök efter uppdateringar",
+	"option-webm": "Prioritera WebM",
+	"option-sizes": "Visa filstorlek",
+	"option-format": "Taitolformat",
+	"option-itags": "Favoritformat",
+
+	"button-options": "Alternativ",
+	"button-options-close": "Klos",
+	"button-update": "Klicka här för att uppdatera YouTube Video Download",
+
+	"error-no-downloads": "Det går inte att hitta några nedladdningsbara strömmar"
+}
